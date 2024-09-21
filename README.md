@@ -4,7 +4,7 @@ This repository showcases an ETL pipeline for processing synthetic sales data an
 
 #### Technologies:
 - **Python**: Data extraction and transformation.
-- **PostgreSQL/MySQL**: Database storage.
+- **PostgreSQL**: Database storage.
 - **Power BI**: Interactive dashboards.
 
 Key features include data cleaning, loading, and visualization of sales metrics. This project highlights ETL processes and data analysis techniques.
